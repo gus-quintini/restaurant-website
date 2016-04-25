@@ -250,7 +250,7 @@ btn:hover {
 @media only screen and (min-width: 38em) {
 
   html{
-    font-size: 110%;
+    font-size: 120%;
     line-height: 1.4;
   }
 
@@ -287,7 +287,7 @@ btn:hover {
 @media only screen and (min-width: 60em) {
 
   html {
-    font-size: 120%;
+    font-size: 130%;
     line-height: 1.5;
   }
 
