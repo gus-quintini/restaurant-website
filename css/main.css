@@ -87,6 +87,7 @@ nav a:hover {
   top: 15%;
   left: 50%;
   transform: translatex(-50%);
+  -webkit-transform: translatex(-50%);
   margin-bottom: auto;
 }
 
@@ -190,6 +191,7 @@ btn:hover {
   padding: .3rem 1rem;
   position: absolute;
   transform: translateX(-50%);
+  -webkit-transform: translatex(-50%);
 }
 
 .card1 {
@@ -230,6 +232,7 @@ footer {
     display: inline-block;
     text-align: center;
     transform: translateX(50%);
+    -webkit-transform: translatex(-50%);
   }
 
   .card-body {
@@ -279,6 +282,7 @@ footer {
     top: 30%;
     left: 50%;
     transform: translatex(-50%);
+    -webkit-transform: translatex(-50%);
     margin-bottom: auto;
     font-size: 140%;
   }
@@ -369,6 +373,7 @@ footer {
     top: 15%;
     left: 50%;
     transform: translatex(-50%);
+    -webkit-transform: translatex(-50%);
     margin-bottom: auto;
     font-size: 150%;
   }
@@ -422,6 +427,7 @@ footer {
     top: 65%;
     left: 10%;
     transform: translatex(-50%);
+    -webkit-transform: translatex(-50%);
     margin-bottom: auto;
     font-size: 110%;
   }
